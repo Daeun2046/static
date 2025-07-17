@@ -1,0 +1,2 @@
+# static
+wargame
